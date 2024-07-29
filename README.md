@@ -1,4 +1,4 @@
-<hi> sistema-de-registro <hi>
+<hi>sistema-de-registro<hi>
 
 -Estado del proyecto: En construccion.
 
